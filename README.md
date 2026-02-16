@@ -1,3 +1,10 @@
+# Introduction to Artificial Intelligence(25/26)
+
+## Student name:
+## Student number: 
+## Project title:
+## Link to project video recording: 
+
 # NLP-Assessment
 Template repo for the nlp mini-project assessments.
 
