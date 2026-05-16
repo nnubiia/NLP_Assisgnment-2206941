@@ -1,8 +1,8 @@
 # Introduction to Artificial Intelligence(25/26)
 
-## Student name:
-## Student number: 
-## Project title:
+## Student name: Jara Nubia Farese
+## Student number: 2206941
+## Project title: Cine Bot 
 ## Link to project video recording: 
 
 # NLP-Assessment
