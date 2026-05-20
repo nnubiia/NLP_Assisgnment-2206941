@@ -42,7 +42,7 @@ class CineBot(ChatbotBase):
 
     def __init__(self):
         super().__init__(name="CineBot")
-        del self.conversation_is_active  # removes base class attribute that shadows our method
+        del self.conversation_is_active  
         self._active      = True
         self.seen_titles  = set()
         self.last_matches = []
@@ -289,6 +289,7 @@ class CineBot(ChatbotBase):
                 "\n  TYPE       -- film / movie,  show / tv / series"
                 "\n  COMBOS     -- 'scary 80s movie', 'funny tv show', 'romantic drama'"
                 "\n  more       -- get another recommendation"
+                "\n  tell me more -- get a short hook about the last recommendation"
                 "\n  bye / quit -- exit CineBot"
                 "\n\nExamples: 'horror', 'funny 90s film', 'something dark and intense'"
             )

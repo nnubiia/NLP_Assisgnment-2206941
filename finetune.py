@@ -68,7 +68,6 @@ model = AutoModelForCausalLM.from_pretrained(
 
 # ── Apply LoRA ────────────────────────────────────────────────────────────────
 # LoRA adds small trainable matrices to the attention layers.
-# This means we only train ~1% of the model parameters — feasible on a GTX 1060.
 
 print("Applying LoRA configuration...")
 lora_config = LoraConfig(
