@@ -3,7 +3,7 @@
 ## Student name: Jara Nubia Farese
 ## Student number: 2206941
 ## Project title: CineBot 
-## Link to project video recording: 
+## Link to project video recording: https://ucreative-my.sharepoint.com/:v:/g/personal/2206941_students_ucreative_ac_uk/IQCSXovZYpEZT4S7D-FIL15NARWEM9AsH4RwT1Hl0Fqo108?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wHmjz2
 
 # NLP-Assessment
 Template repo for the nlp mini-project assessments.
