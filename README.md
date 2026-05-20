@@ -2,7 +2,7 @@
 
 ## Student name: Jara Nubia Farese
 ## Student number: 2206941
-## Project title: Cine Bot 
+## Project title: CineBot 
 ## Link to project video recording: 
 
 # NLP-Assessment
