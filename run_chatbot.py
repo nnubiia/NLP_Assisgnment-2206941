@@ -1,5 +1,10 @@
-# Import your chatbot class here
-
+from my_chatbot import CineBot #GENRE_MAP
+#print("GENRE_MAP:", GENRE_MAP)
 
 if __name__ == "__main__":
-    # The code for running your chatbot goes here
+    chatbot = CineBot()
+    chatbot.greeting()
+    response = chatbot.respond()
+    while chatbot.conversation_is_active():
+        response = chatbot.respond(response)
+    chatbot.farewell()
